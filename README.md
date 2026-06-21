@@ -1,6 +1,6 @@
 <h1> 👋 Heya, I'm <span style="color:#DC143C;">Saleha</span></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&weight=900&size=32&pause=1200&color=00E5FF&vCenter=true&width=900&lines=✦+AI+Student;✦+Fullstack+Developer;✦+Building+KindSphere;✦+Designer+at+Heart)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&weight=900&size=32&pause=1200&color=00E5FF&vCenter=true&width=900&lines=✦+Full-Stack+Developer;✦+Building+KindSphere;✦+AI+Student;✦+Designer+at+Heart)](https://git.io/typing-svg)
 
 <img width="1774" height="887" alt="18d8063a-baca-4de5-885f-c17b2fbe3e3c" src="https://github.com/user-attachments/assets/96ed5f10-7241-4df1-9fb1-264cf5fc18c4" />
 
