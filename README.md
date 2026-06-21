@@ -16,7 +16,7 @@
 
 💻 **Building modern web applications with Next.js, React, JavaScript & Tailwind CSS**
 
-🌱 **Using Supabase**
+🌱 **Using Supabase and Learning Backend more deeply**
 
 🚀 **Passionate about creating meaningful digital experiences through code and design**
 
