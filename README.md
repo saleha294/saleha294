@@ -68,12 +68,14 @@
 > A calm and supportive platform where users can anonymously share thoughts and receive advice.  
 > [🔗 Visit KindSphere](https://kindsphere-app.vercel.app)
 
-### 🌌 VibeHub
-> A distraction-free reading experience with a galaxy-inspired environment.
-
+> 
 ### 🎨 Personal Portfolio
 > A responsive portfolio website featuring dynamic routing and smooth animations.  
 > [🔗 Visit Portfolio](https://salehazportfolio.vercel.app)
+
+### 🌌 VibeHub
+> A distraction-free reading experience with a galaxy-inspired environment.
+Live Link comming soon!
 
 ---
 
