@@ -2,7 +2,7 @@
 
 # 👋 **YO, HELLO!**
 
-### My little AI brain, where I code to cook. 🍳
+### Welcome to my little AI brain, where I code to cook. 🍳
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&pause=1000\&color=00E5FF\&center=true\&vCenter=true\&width=750\&lines=Building+AI+that+does+more+than+just+chat.;Turning+APIs+into+workflows.;Automating+the+boring+parts.;One+agent+at+a+time.)](https://git.io/typing-svg)
 
@@ -16,13 +16,7 @@
 
 </div>
 
-<br>
-
 ---
-
-### `AI` × `AUTOMATION` × `DATA`
-
-<br>
 
 ## ⚡ What I’m Cooking
 
